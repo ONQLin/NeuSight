@@ -1,0 +1,12 @@
+{
+    "Device":"NVIDIA RTX 4090",
+    "Dev_Mem":24,
+    "Mem_Bw":1008,
+    "Num_Sm":128,
+    "Core_Per_SM":128,
+    "Freq":2520,
+    "SingleFLOPs_CUDA":82580,
+    "SingleFLOPs_TF32_TC":165160,
+    "SingleFLOPs":82580,
+    "L2Cache":72
+}

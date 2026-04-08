@@ -1,0 +1,12 @@
+{
+    "Device":"NVIDIA RTX 5090",
+    "Dev_Mem":32,
+    "Mem_Bw":1792,
+    "Num_Sm":170,
+    "Core_Per_SM":128,
+    "Freq":2407,
+    "SingleFLOPs_CUDA":104836,
+    "SingleFLOPs_TF32_TC":209672,
+    "SingleFLOPs":104836,
+    "L2Cache":96
+}

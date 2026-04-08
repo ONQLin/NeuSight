@@ -1,0 +1,12 @@
+{
+    "Device":"NVIDIA RTX 3090",
+    "Dev_Mem":24,
+    "Mem_Bw":936,
+    "Num_Sm":82,
+    "Core_Per_SM":128,
+    "Freq":1695,
+    "SingleFLOPs_CUDA":35580,
+    "SingleFLOPs_TF32_TC":142320,
+    "SingleFLOPs":35580,
+    "L2Cache":6
+}
